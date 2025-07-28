@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack   
 
 - 🟢 **Node.js** – Backend logic & server
 - 🍃 **MongoDB** – NoSQL database for storing personal info
