@@ -32,6 +32,8 @@
    ```bash
    npm install
    node app.js
+   npm audit fix
+   npm audit
 
 3. Run the server
       ```bash
@@ -39,6 +41,6 @@
 
 4. All in one
     ```bash
-    git clone https://github.com/Divya-Darshan/DBMS-mini-project.git && cd DBMS-mini-project && npm i && npm app.js && npm start
+    git clone https://github.com/Divya-Darshan/DBMS-mini-project.git && cd DBMS-mini-project && npm i && npm app.js && npm audit fix && npm audit && npm start
      
 
