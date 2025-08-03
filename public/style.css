@@ -9,7 +9,7 @@
 }
 
 body{
-    background: url(https://static1.personality-database.com/anime-characters/isfp-anime-characters.png);
+    background: url(https://wallpapers.com/images/high/anime-sky-937943p76ptlbz3h.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -54,14 +54,13 @@ input{
 input[type=submit]{
    
     font-family: Arial, Helvetica, sans-serif;
-    width: 90%;
-    background-color: rgba(64, 57, 202, 0.731);
+    width: 30%;
+    background-color: rgba(13, 0, 255, 0.731);
     border:none;
     color: white;
     padding: 16px 32px;
     margin: 0 0 4px 23px;
     border-radius: 5px;
-    box-shadow:5px 8px  0px rgb(0, 0, 0);
 
 
 }
