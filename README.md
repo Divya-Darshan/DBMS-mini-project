@@ -27,11 +27,18 @@
 1. Clone the repo
    ```bash
    git clone https://github.com/Divya-Darshan/DBMS-mini-project.git
-   
+
 2. Install dependencies:
    ```bash
    npm install
    node app.js
-   
-Made with ❤️ and JavaScript!
+
+3. Run the server
+      ```bash
+      npm start
+
+4. All in one
+    ```bash
+            git clone https://github.com/Divya-Darshan/DBMS-mini-project.git && npm i && npm app.js && npm start
+     
 
