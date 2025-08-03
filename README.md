@@ -39,7 +39,7 @@
       ```bash
       npm start
 
-4. All in one
+4. All in one Note : "This command won't work on Windows PowerShell" 
     ```bash
     git clone https://github.com/Divya-Darshan/DBMS-mini-project.git && cd DBMS-mini-project && npm i && npm app.js & npm audit fix & npm audit & start http://localhost:3000 & npm start 
      
