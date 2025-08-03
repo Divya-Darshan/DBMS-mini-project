@@ -9,7 +9,7 @@
 }
 
 body{
-    background: url(https://wallpapers.com/images/high/anime-sky-937943p76ptlbz3h.webp);
+    background: rgb(27, 27, 27);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,12 +26,11 @@ body{
 }
 
 form{
-    box-shadow:0px 0px  40px rgb(200, 197, 197);
     object-fit:cover;
     width: 500px;
     height:43pc;
     padding: 20px;
-    border-radius:20px;
+    border-radius:10px;
     border: 2px solid rgba(112, 106, 220, 0.567);
     background-color: rgb(255, 255, 255);
 }
