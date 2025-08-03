@@ -39,6 +39,6 @@
 
 4. All in one
     ```bash
-            git clone https://github.com/Divya-Darshan/DBMS-mini-project.git && npm i && npm app.js && npm start
+    git clone https://github.com/Divya-Darshan/DBMS-mini-project.git && npm i && npm app.js && npm start
      
 
