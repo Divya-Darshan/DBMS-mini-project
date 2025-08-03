@@ -42,9 +42,3 @@
 4. All in one Note : "This command won't work on Windows PowerShell" 
     ```bash
    for /f "tokens=14 delims= " %a in ('ipconfig ^| findstr "IPv4"') do (git clone https://github.com/Divya-Darshan/DBMS-mini-project.git && cd DBMS-mini-project && npm i && npm audit fix && npm audit && color 1F && cls &&  echo Choose weather local or host : && echo http://%a:3000 && echo http://localhost:3000 && color 07 && timeout -t 10 && start http://localhost:3000 && npm start)
-
-
-
-
-     
-
